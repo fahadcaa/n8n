@@ -90,3 +90,12 @@ Template: https://drive.google.com/uc?export=download&id=1f2nKojRDtUGlOE8_Ef5m0C
 Automated Paddle Invoice PDF Saver
 Description: This n8n workflow automates processing Paddle invoice emails received in Gmail. It filters Paddle invoices, extracts invoice URLs from emails, converts them to PDFs using pdflayer API, uploads to Google Drive, renames and organizes files in specified Drive folders.
 Template: https://drive.google.com/uc?export=download&id=1EhzZ4Emd9cclXjy9poiLgRQa_yxowkiF&filename=workflow.json
+LinkedIn Profile Finder with Boolean Search
+Description: An n8n workflow that generates Boolean search strings using OpenAI GPT-4O-MINI from job descriptions, performs authenticated Google searches, extracts LinkedIn profile URLs, and appends results to Google Sheets for sourcing candidates efficiently.
+Template: https://drive.google.com/uc?export=download&id=1Rd3hhoh-dxKE5FF_KYgvPJSe9Owez3CG&filename=workflow.json
+LinkedIn Profile & Company Scraper with Bright Data & AI
+Description: An n8n workflow that scrapes LinkedIn person and company profiles using Bright Data MCP API, processes the data with LangChain's info extractor and Google Gemini AI to generate detailed company stories, and saves results locally and via webhook.
+Template: https://drive.google.com/uc?export=download&id=1tu-6cRxJgz6bnuRg3pWY9bX1aM51dIlu&filename=workflow.json
+LinkedIn Leads Scraper & Enrichment Workflow
+Description: Automates LinkedIn lead generation and enrichment using Apollo.io API for lead data, OpenAI GPT-3.5 for username extraction and profile/post summaries, RapidAPI LinkedIn & Apify for profile/posts scraping, and Google Sheets for storage and workflow triggers.
+Template: https://drive.google.com/uc?export=download&id=1s3f7nWetv9ELl0bSGBGqCZWmJPCtpYuo&filename=workflow.json
