@@ -81,3 +81,12 @@ Template: https://drive.google.com/uc?export=download&id=1ae5TahQyzCwF5-VWdoC7__
 Facebook Page Comments Extractor
 Description: An n8n workflow that uses the Facebook Graph API to fetch latest posts and their comments from a specified Facebook Page. It processes, filters, and organizes Facebook post and comment data, leveraging nodes like Set, Split Out, Filter, Merge, and Code to structure the output.
 Template: https://drive.google.com/uc?export=download&id=1wtk1pQJkBn1TPBUDVVh4Q0nTbdNqV3pZ&filename=workflow.json
+QuickBooks Invoice Automation Workflow
+Description: Automates customer creation, invoice generation, and email sending in QuickBooks using OAuth2 API integration within n8n workflow. Streamlines accounting tasks by chaining customer creation, invoice creation, and invoice emailing efficiently.
+Template: https://drive.google.com/uc?export=download&id=1jSNF0H_AhpEnKUrjSxu3783e8MCdseXZ&filename=workflow.json
+Invoice Ninja Invoice Creation Trigger
+Description: An n8n workflow that triggers actions when a new invoice is created in Invoice Ninja using its API webhook integration. Designed to automate workflows based on invoice creation events in Invoice Ninja accounting software.
+Template: https://drive.google.com/uc?export=download&id=1f2nKojRDtUGlOE8_Ef5m0CJRKfFmhI-W&filename=workflow.json
+Automated Paddle Invoice PDF Saver
+Description: This n8n workflow automates processing Paddle invoice emails received in Gmail. It filters Paddle invoices, extracts invoice URLs from emails, converts them to PDFs using pdflayer API, uploads to Google Drive, renames and organizes files in specified Drive folders.
+Template: https://drive.google.com/uc?export=download&id=1EhzZ4Emd9cclXjy9poiLgRQa_yxowkiF&filename=workflow.json
